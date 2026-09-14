@@ -1,6 +1,6 @@
 /* gerado automaticamente a partir da planilha - nao editar a mao */
 window.FAT = {
-  atualizado: "10/09/2026 18:56",
+  atualizado: "14/09/2026 09:56",
   arquivo: "HISTORICO_FATURAMENTO.XLS.xlsx",
   meses: ["Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez"],
   anos: [
